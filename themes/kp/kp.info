@@ -1,0 +1,8 @@
+name = Subtheme Krausnick-Park
+description = This is a sub-theme of theme Basis for Krausnick-Park.
+backdrop = 1.x
+base theme = basis
+
+stylesheets[all][] = css/overwrites.css
+# scripts[] = js/script.js
+

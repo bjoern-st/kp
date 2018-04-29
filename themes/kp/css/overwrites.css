@@ -1,0 +1,99 @@
+/* line 1, ../sass/components/_header.scss */
+header {
+  background: #569532;
+}
+/* line 4, ../sass/components/_header.scss */
+header.l-header {
+  background: #569532;
+}
+/* line 8, ../sass/components/_header.scss */
+header .l-header-inner {
+  position: relative;
+}
+/* line 12, ../sass/components/_header.scss */
+header .header-identity-wrapper {
+  background: #569532;
+}
+/* line 17, ../sass/components/_header.scss */
+header .header-site-name-wrapper a {
+  background: #569532;
+  color: #B0DF95;
+  font-size: 2.5rem;
+  line-height: 2.9rem;
+}
+
+/* line 2, ../sass/components/_menus.scss */
+.js .menu-dropdown > li:hover {
+  background-color: #356F13;
+}
+/* line 6, ../sass/components/_menus.scss */
+.js .menu-dropdown > li {
+  border-bottom-color: #356F13;
+}
+/* line 11, ../sass/components/_menus.scss */
+.js .menu-dropdown li.active {
+  font-weight: 600;
+}
+
+/* line 17, ../sass/components/_menus.scss */
+.l-header a:active {
+  background: #356F13;
+}
+
+/* line 2, ../sass/components/_hero.scss */
+.front .block-hero {
+  min-height: 140px;
+}
+/* line 4, ../sass/components/_hero.scss */
+.front .block-hero .block-title {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+/* line 7, ../sass/components/_hero.scss */
+.front .block-hero .block-content {
+  height: 1px;
+}
+
+/* line 3, ../sass/components/_post.scss */
+.node-post.view-mode-teaser {
+  padding: 20px;
+  border-radius: 10px;
+  border: solid 2px #569532;
+}
+/* line 8, ../sass/components/_post.scss */
+.node-post.view-mode-teaser:hover {
+  transition: box-shadow .25s;
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/* line 15, ../sass/components/_post.scss */
+.node-post h2 a {
+  color: #569532;
+}
+/* line 18, ../sass/components/_post.scss */
+.node-post h2 a:hover {
+  color: #356F13;
+  text-decoration: underline;
+}
+
+/* line 1, ../sass/components/_seiten.scss */
+.view-name-b {
+  /*
+    .l-wrapper {
+      background-image: url('../images/Krausnickpark.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  */
+}
+/* line 2, ../sass/components/_seiten.scss */
+.view-name-b header {
+  margin-bottom: 0;
+}
+/* line 16, ../sass/components/_seiten.scss */
+.view-name-b .view-b {
+  margin-bottom: 30px;
+}
+
+/*# sourceMappingURL=overwrites.css.map */

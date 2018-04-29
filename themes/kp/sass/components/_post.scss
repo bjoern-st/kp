@@ -1,0 +1,23 @@
+.node-post {
+
+  &.view-mode-teaser {
+    padding: 20px;
+    border-radius: 10px;
+    border: solid 2px $background-color;    
+
+    &:hover {
+      transition: box-shadow .25s;
+      box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    }
+  }
+
+  h2 {
+    a {
+      color: $background-color;
+    }
+    a:hover {
+      color: $shadow-color-dark;
+      text-decoration: underline;
+    }
+  }
+}

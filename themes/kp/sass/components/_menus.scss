@@ -1,0 +1,19 @@
+.js .menu-dropdown {
+  & > li:hover {
+    background-color: $shadow-color-dark;
+  }
+
+  & > li {
+    border-bottom-color: $shadow-color-dark;
+  }
+
+  li {
+    &.active {
+      font-weight: 600;
+    }
+  }
+}
+
+.l-header a:active {
+    background: $shadow-color-dark;
+}

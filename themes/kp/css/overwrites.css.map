@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAAA,MAAO;EACL,UAAU,ECSO,OAAO;;;ADPxB,eAAW;EACP,UAAU,ECMG,OAAO;;;ADHxB,sBAAgB;EACd,QAAQ,EAAE,QAAQ;;;AAGpB,+BAAyB;EACvB,UAAU,ECFK,OAAO;;;ADMtB,kCAAE;EACA,UAAU,ECPG,OAAO;EDQpB,KAAK,ECPS,OAAO;EDQrB,SAAS,EAAE,MAAM;EACjB,WAAW,EAAE,MAAM;;;;AEnBvB,6BAAa;EACX,gBAAgB,EDWA,OAAO;;;ACRzB,uBAAO;EACL,mBAAmB,EDOH,OAAO;;;ACHvB,4BAAS;EACP,WAAW,EAAE,GAAG;;;;AAKtB,kBAAmB;EACf,UAAU,EDJM,OAAO;;;;AEZzB,kBAAY;EACV,UAAU,EAAE,KAAK;;;AACjB,+BAAa;EACX,gBAAgB,EAAE,wBAAwB;;;AAE/C,iCAAe;EACb,MAAM,EAAE,GAAG;;;;ACLZ,2BAAmB;EACjB,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,IAAI;EACnB,MAAM,EAAE,iBAA2B;;;AAEnC,iCAAQ;EACN,UAAU,EAAE,eAAe;EAC3B,UAAU,EAAE,iEAA4B;;;AAK1C,eAAE;EACA,KAAK,EHLQ,OAAO;;;AGOtB,qBAAQ;EACN,KAAK,EHLS,OAAO;EGMrB,eAAe,EAAE,SAAS;;;;ACnBhC,YAAa;;;;;;;;;;;;;AACX,mBAAO;EACL,aAAa,EAAE,CAAC;;;AAalB,oBAAQ;EACN,aAAa,EAAE,IAAI",
+"sources": ["../sass/components/_header.scss","../sass/_settings.scss","../sass/components/_menus.scss","../sass/components/_hero.scss","../sass/components/_post.scss","../sass/components/_seiten.scss"],
+"names": [],
+"file": "overwrites.css"
+}
